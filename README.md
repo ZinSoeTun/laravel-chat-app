@@ -1,4 +1,4 @@
-This is a laravel caht app that using chatify package.
+This is a laravel chat app that using chatify package.
 This project has many functions like user chat , message , images , notification ....
 This project is used laravel 10, chatify package and laravel ui package
 If you run this project,
